@@ -1,0 +1,64 @@
+h1 {
+    block-size: 100px;
+    font-size: 80px;
+    background-color: black;
+    color: rgb(199, 68, 68);
+    text-align: center;
+}
+
+.indice {
+    position: relative;
+    top: -50px;
+    block-size: 100px;
+    font-size: 25px;
+    background-color: black;
+    color: white;
+
+}
+
+h2 {
+    text-align: center;
+    background-color: blue;
+    color: white;
+}
+
+h3 {
+    text-align: center;
+    background-color: blue;
+    color: white;
+    block-size: 50px;
+    position: relative;
+    top: -550px;
+}
+
+.img {
+    position: relative;
+    top: 50px;
+    width: 600px;
+    height: 300px;
+}
+
+.imgg {
+    position: relative;
+    top: -254.5px;
+    left: 600px;
+    width: 670px;
+    height: 300px;
+}
+
+.imggg {
+    position: relative;
+    top: -558px;
+    left: 1265px;
+    width: 600px;
+    height: 300px;
+}
+
+.text {
+    text-align: center;
+    position: relative;
+    top: -500px;
+    background-color: crimson;
+    color: aqua;
+    block-size: 100px;
+}
